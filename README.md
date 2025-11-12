@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of formation is to …
+The goal of formation is to try to arrive on time in class.
 
 ## Installation
 
