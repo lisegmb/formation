@@ -12,5 +12,5 @@ Imports: mvtnorm
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/lisegmb/formation
+URL: https://github.com/lisegmb/formation, https://lisegmb.github.io/formation/
 BugReports: https://github.com/lisegmb/formation/issues

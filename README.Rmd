@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # formation
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/lisegmb/formation/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lisegmb/formation/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/lisegmb/formation/graph/badge.svg)](https://app.codecov.io/gh/lisegmb/formation)
 <!-- badges: end -->
 
 The goal of formation is to ...
