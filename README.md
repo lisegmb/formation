@@ -10,7 +10,7 @@
 coverage](https://codecov.io/gh/lisegmb/formation/graph/badge.svg)](https://app.codecov.io/gh/lisegmb/formation)
 <!-- badges: end -->
 
-The goal of formation is to …
+The goal of formation is to try to arrive on time in class.
 
 ## Installation
 
